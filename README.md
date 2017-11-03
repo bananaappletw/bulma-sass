@@ -2,6 +2,8 @@
 
 Bulma, modern CSS framework based on Flexbox
 
+`bulma-sass` gem supports Rails and Sprockets
+
 ## Installation
 
 Add this line to your application's Gemfile:
