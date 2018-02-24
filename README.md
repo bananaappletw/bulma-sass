@@ -4,7 +4,9 @@ Bulma, modern CSS framework based on Flexbox
 
 `bulma-sass` gem supports Rails and Sprockets
 
-## Installation
+## Rails 
+
+### Installation
 
 Add this line to your application's Gemfile:
 
@@ -20,10 +22,14 @@ Or install it yourself as:
 
     $ gem install bulma-sass
 
-## Usage
+### Usage
 
 Import Bulma styles in `app/assets/stylesheets/application.scss`
 
 ```css
 @import "bulma";
 ```
+
+## Jekyll
+
+See [example](./docs)

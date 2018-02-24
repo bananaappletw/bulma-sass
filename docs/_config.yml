@@ -1,0 +1,15 @@
+# Build settings
+
+host: 0.0.0.0
+
+# Plugin
+
+plugins:
+  - jekyll-assets
+  - bulma-sass
+
+# Jekyll-assets
+
+assets:
+  caching:
+    type: memory
