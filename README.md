@@ -1,4 +1,4 @@
-# Bulma-sass
+# Bulma-sass [![Gem Version](https://badge.fury.io/rb/bulma-sass.svg)](https://badge.fury.io/rb/bulma-sass)
 
 `bulma-sass` gem supports Rails and Sprockets
 
