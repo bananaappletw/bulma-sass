@@ -12,5 +12,5 @@ gem build bulma-sass.gemspec
 gem push "bulma-sass-$version.gem"
 git add .
 git commit -m "Release v$version"
-git tag -a "v$version" -m "v$version"
-git push
+git tag "$version"
+git push --follow-tags
