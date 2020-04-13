@@ -1,4 +1,4 @@
-# Bulma-sass ![](https://img.shields.io/gem/v/bulma-sass.svg?style=flat&color=grees) ![](https://img.shields.io/gem/dt/bulma-sass.svg)
+# Bulma-sass ![Gem](https://img.shields.io/gem/v/bulma-sass.svg?style=flat&color=grees) ![Download](https://img.shields.io/gem/dt/bulma-sass.svg)
 
 `bulma-sass` gem supports Rails and Sprockets
 
