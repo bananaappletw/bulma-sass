@@ -13,4 +13,4 @@ gem push "bulma-sass-$version.gem"
 git add .
 git commit -m "Release v$version"
 git tag "$version"
-git push --follow-tags
+git push origin "$version"
